@@ -9,7 +9,7 @@
       "version": "1.0.4",
       "type": "video",
       "lang": "en",
-      "iconUrl": "https://avatars.githubusercontent.com/u/83435840?v=4",
+      "iconUrl": "https://cineby.im/logo.png",
       "downloadUrl": "https://raw.githubusercontent.com/TamerAli-0/omniplugins/builds/cineby.omni",
       "entryClass": "com.omnistream.plugins.cineby.CinebyPlugin",
       "description": "Movies and TV shows with multi-server playback and built-in subtitles.",
