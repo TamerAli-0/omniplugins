@@ -1,0 +1,27 @@
+{
+  "name": "OmniPlugins",
+  "iconUrl": "https://avatars.githubusercontent.com/u/83435840?v=4",
+  "description": "Official plugin repository for OmniStream",
+  "plugins": [
+    {
+      "pluginId": "cineby",
+      "name": "Cineby",
+      "version": "1.0.4",
+      "type": "video",
+      "lang": "en",
+      "iconUrl": "https://avatars.githubusercontent.com/u/83435840?v=4",
+      "downloadUrl": "https://raw.githubusercontent.com/TamerAli-0/omniplugins/builds/cineby.omni",
+      "entryClass": "com.omnistream.plugins.cineby.CinebyPlugin",
+      "description": "Movies and TV shows with multi-server playback and built-in subtitles.",
+      "tvTypes": [
+        "Movie",
+        "TvSeries"
+      ],
+      "authors": [
+        "TamerAli-0"
+      ],
+      "fileSize": 634185,
+      "fileHash": "sha256-cd14bcea3f99c9ed15b6a311daa8033734beb643dc1555c1de0152a810ca115f"
+    }
+  ]
+}
