@@ -6,7 +6,7 @@
     {
       "pluginId": "aflaam",
       "name": "Aflaam",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "type": "video",
       "lang": "ar",
       "iconUrl": "https://aflaam.com/favicon.png",
@@ -20,8 +20,8 @@
       "authors": [
         "TamerAli-0"
       ],
-      "fileSize": 629217,
-      "fileHash": "sha256-a7ee5ed34e9cb4201454b062cbb6e56edb7228b70f215c87b3fc5ede2375913b"
+      "fileSize": 629297,
+      "fileHash": "sha256-1bce8416fdfc17bc952d0f71e0807b1afb906eabc10165cd35e83e59f9da88ef"
     },
     {
       "pluginId": "cineby",
