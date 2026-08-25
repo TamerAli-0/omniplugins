@@ -4,6 +4,26 @@
   "description": "Official plugin repository for OmniStream",
   "plugins": [
     {
+      "pluginId": "aflaam",
+      "name": "Aflaam",
+      "version": "1.0.0",
+      "type": "video",
+      "lang": "ar",
+      "iconUrl": "https://aflaam.com/favicon.png",
+      "downloadUrl": "https://raw.githubusercontent.com/TamerAli-0/omniplugins/builds/aflaam.omni",
+      "entryClass": "com.omnistream.plugins.aflaam.AflaamPlugin",
+      "description": "Arabic movies and TV series with direct multi-quality playback.",
+      "tvTypes": [
+        "Movie",
+        "TvSeries"
+      ],
+      "authors": [
+        "TamerAli-0"
+      ],
+      "fileSize": 629217,
+      "fileHash": "sha256-a7ee5ed34e9cb4201454b062cbb6e56edb7228b70f215c87b3fc5ede2375913b"
+    },
+    {
       "pluginId": "cineby",
       "name": "Cineby",
       "version": "1.0.4",
