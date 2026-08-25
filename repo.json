@@ -6,11 +6,11 @@
     {
       "pluginId": "aflaam",
       "name": "Aflaam",
-      "version": "1.0.3",
+      "version": "1.0.4",
       "type": "video",
       "lang": "ar",
       "iconUrl": "https://aflaam.com/favicon.png",
-      "downloadUrl": "https://raw.githubusercontent.com/TamerAli-0/omniplugins/builds/aflaam.omni",
+      "downloadUrl": "https://raw.githubusercontent.com/TamerAli-0/omniplugins/builds/aflaam.omni?v=1.0.4",
       "entryClass": "com.omnistream.plugins.aflaam.AflaamPlugin",
       "description": "Arabic movies and TV series with direct multi-quality playback.",
       "tvTypes": [
@@ -20,8 +20,8 @@
       "authors": [
         "TamerAli-0"
       ],
-      "fileSize": 629505,
-      "fileHash": "sha256-b678fbd79bb90aee2b89df20076390f98de985dbb6e313d74cd2bc0fbd24ae3e"
+      "fileSize": 629677,
+      "fileHash": "sha256-a8953c9112cdca484cb1e1c0ca6c9ab4fe4fd919b82518807c8d8dd608a593ba"
     },
     {
       "pluginId": "cineby",
